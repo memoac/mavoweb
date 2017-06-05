@@ -1,0 +1,22 @@
+{
+	"main_txt": " ",
+	"bold_txt": " ",
+	"hobby": [
+		"Eating",
+		"rtyrty",
+		"dfgdfgdfg"
+	],
+	"painting": [
+		{
+			"painting": "jhjkhk",
+			"name": "gdfgdg"
+		},
+		{
+			"name": "sdfgsdf"
+		},
+		{
+			"painting": "sdfg",
+			"name": "sdfgsfgs"
+		}
+	]
+}
