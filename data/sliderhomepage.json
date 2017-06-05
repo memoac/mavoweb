@@ -1,0 +1,13 @@
+{
+	"image": "images/photo.jpg",
+	"main_txt": " ",
+	"bold_txt": " ",
+	"hobby": [
+		"Eating"
+	],
+	"painting": [
+		{
+			"image": "https://cdn.rawgit.com/memoac/mavoweb/2c1d4a54d93f9c739686392fa49dea0b7a18aad1/data/images/Deployment.jpg"
+		}
+	]
+}
