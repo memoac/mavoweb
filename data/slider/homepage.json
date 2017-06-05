@@ -7,7 +7,9 @@
 	],
 	"painting": [
 		{
-			"name": "ddd"
+			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
+			"name": "Carwash",
+			"@type": "Painting"
 		}
 	]
 }
