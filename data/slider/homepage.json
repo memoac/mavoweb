@@ -5,5 +5,9 @@
 		"Eating",
 		"fsfsdf"
 	],
-	"painting": []
+	"painting": [
+		{
+			"name": "ddd"
+		}
+	]
 }
