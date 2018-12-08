@@ -7,7 +7,7 @@
 	],
 	"painting": [
 		{
-			"image": "https://cdn.rawgit.com/memoac/mavoweb/4d6b2fe23ba3fda552ee2593bcee524e24e44b6b/data/images/preloader-coupons.gif",
+			"image": "https://cdn.jsdelivr.net/gh/memoac/mavoweb@4d6b2fe23ba3fda552ee2593bcee524e24e44b6b/data/images/preloader-coupons.gif",
 			"name": "Preloader coupons"
 		},
 		{
