@@ -1,5 +1,8 @@
 {
 	"email": "mail",
 	"message": "asdkjhaksjd",
-	"title": "Mavo App stored in Github"
+	"title": "Mavo App stored in Github",
+	"rating": 2,
+	"birthday": "2014-06-01",
+	"avatar": "https://cdn.rawgit.com/memoac/mavoweb/10cf4fa6a1eee15cf88aa93c65abf61b708bb743/images/21422050-23.jpg"
 }
